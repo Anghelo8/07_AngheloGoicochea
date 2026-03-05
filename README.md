@@ -1,50 +1,34 @@
-# Welcome to your Expo app 👋
+Los Reyes – Plataforma de Vinos 🍷
+📌 Nombre del Proyecto
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Los Reyes – Aplicación móvil para compra de vinos
 
-## Get started
+📱 Descripción de la Aplicación
 
-1. Install dependencies
+Los Reyes es una aplicación móvil basada en una plataforma de comercio electrónico dedicada a la venta de vinos.
+Permite a los usuarios explorar un catálogo de productos, ver información detallada de cada vino y realizar compras de forma rápida desde su teléfono.
 
-   ```bash
-   npm install
-   ```
+La aplicación está dirigida a personas mayores de 18 años que desean consultar información, comparar opciones y comprar vinos fácilmente desde cualquier lugar.
 
-2. Start the app
+Entre sus principales funciones se encuentran:
 
-   ```bash
-   npx expo start
-   ```
+Visualización del catálogo de vinos
 
-In the output, you'll find options to open the app in a
+Filtros de búsqueda por tipo, región o precio
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Carrito de compras para gestionar productos
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Registro e inicio de sesión de usuarios
 
-## Get a fresh project
+Proceso de compra con confirmación de pedido
 
-When you're ready, run:
+Notificaciones de pedidos
 
-```bash
-npm run reset-project
-```
+Escaneo de botellas mediante código
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Detección de ubicación para envíos
 
-## Learn more
+🖥️ Captura de Pantalla
 
-To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<img width="360" height="374" alt="{A6426E2E-A569-47C7-B65F-797CC9BD7151}" src="https://github.com/user-attachments/assets/8b0eb4ce-9d25-428a-b22b-626f28e4a6e6" />
