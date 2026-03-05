@@ -1,32 +1,11 @@
-Los Reyes – Plataforma de Vinos 🍷
-📌 Nombre del Proyecto
+# 🍷 Los Reyes
 
-Los Reyes – Aplicación móvil para compra de vinos
+## 📱 Descripción del Proyecto
 
-📱 Descripción de la Aplicación
+**Los Reyes** es una aplicación móvil basada en una plataforma de comercio electrónico dedicada a la venta de vinos.
+Permite a los usuarios explorar un catálogo de vinos, visualizar información detallada de cada producto y realizar compras de forma rápida y sencilla desde su teléfono.
 
-Los Reyes es una aplicación móvil basada en una plataforma de comercio electrónico dedicada a la venta de vinos.
-Permite a los usuarios explorar un catálogo de productos, ver información detallada de cada vino y realizar compras de forma rápida desde su teléfono.
-
-La aplicación está dirigida a personas mayores de 18 años que desean consultar información, comparar opciones y comprar vinos fácilmente desde cualquier lugar.
-
-Entre sus principales funciones se encuentran:
-
-Visualización del catálogo de vinos
-
-Filtros de búsqueda por tipo, región o precio
-
-Carrito de compras para gestionar productos
-
-Registro e inicio de sesión de usuarios
-
-Proceso de compra con confirmación de pedido
-
-Notificaciones de pedidos
-
-Escaneo de botellas mediante código
-
-Detección de ubicación para envíos
+La aplicación está orientada a personas mayores de 18 años que desean consultar opciones de vinos y comprar de manera cómoda desde cualquier lugar.
 
 🖥️ Captura de Pantalla
 
